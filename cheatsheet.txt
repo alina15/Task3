@@ -1,0 +1,2 @@
+kubectl get services --sort-by=.metadata.name
+kubectl get services --sort-by=.metadata.size
